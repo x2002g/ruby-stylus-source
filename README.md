@@ -1,4 +1,3 @@
-ruby-stylus-source
-==================
+# Ruby Stylus Source
 
-ruby-stylus-source
+https://github.com/LearnBoost/stylus
